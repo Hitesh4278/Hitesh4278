@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hitesh Gahanolia</h1>
-<h3 align="center">m a pre-final year Computer Science and Engineering student at MNNIT Allahabad. My coursework and project experiences have cultivated my passion for development. I'm eager to explore new technologies and make a positive impact in my final year and beyond.</h3>
+<h3 align="center">I'm a pre-final year Computer Science and Engineering student at MNNIT Allahabad. My coursework and project experiences have cultivated my passion for development. I'm eager to explore new technologies and make a positive impact in my final year and beyond.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.wouterbongaerts.com/gif">
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif?format=2500w">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitesh4278&label=Profile%20views&color=0e75b6&style=flat" alt="hitesh4278" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hitesh4278" alt="hitesh4278" /></a> </p>
