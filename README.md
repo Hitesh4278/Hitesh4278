@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hitesh Gahanolia</h1>
 <h3 align="center">I'm a pre-final year Computer Science and Engineering student at MNNIT Allahabad. My coursework and project experiences have cultivated my passion for development. I'm eager to explore new technologies and make a positive impact in my final year and beyond.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif?format=2500w">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hitesh4278&label=Profile%20views&color=0e75b6&style=flat" alt="hitesh4278" /> </p>
+
 - 💬 Ask me about **Programming, Mern Stack**
 
 - 📫 How to reach me **hiteshgahanolia@gmail.com**
